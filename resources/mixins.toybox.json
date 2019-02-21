@@ -1,0 +1,17 @@
+{
+	"required": true,
+	"package": "eddxample.toybox.mixins",
+	"refmap": "mixins.toybox.refmap.json",
+	"mixins":
+	[
+		"MixinBlockPistonBase",
+		"MixinMinecraftServer",
+		"MixinTimer"
+		],
+	
+	"injectors":
+	{
+		"defaultRequire": 1
+    }
+}
+

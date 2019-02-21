@@ -1,0 +1,9 @@
+{
+	"name": "toybox",
+	"mcversion": "1.12",
+	"mixinConfigs":
+	[
+		"mixins.toybox.json"
+	]
+}
+
