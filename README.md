@@ -24,4 +24,6 @@ TODO:
 - You can set some features in liteloader's settings menu
 - You can use the `Piston Helper` by right-clicking the piston base with no item in the main hand
 (click again to remove the text)
-**
+
+## Build
+Run `./gradlew build` on the projects' root directory. The litemod will be located in `build\libs`.
